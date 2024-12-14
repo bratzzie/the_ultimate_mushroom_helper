@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+    ~ Copyright 2022 The TensorFlow Authors. All Rights Reserved.
+    ~
+    ~ Licensed under the Apache License, Version 2.0 (the "License");
+    ~ you may not use this file except in compliance with the License.
+    ~ You may obtain a copy of the License at
+    ~
+    ~       http://www.apache.org/licenses/LICENSE-2.0
+    ~
+    ~ Unless required by applicable law or agreed to in writing, software
+    ~ distributed under the License is distributed on an "AS IS" BASIS,
+    ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    ~ See the License for the specific language governing permissions and
+    ~ limitations under the License.
+-->
+<resources>
+    <string name="app_name">ChanterelleCheck</string>
+
+    <string name="alt_bottom_sheet_chevron">Bottom sheet expandable indicator</string>
+
+    <string name="alt_bottom_sheet_max_results_button_minus">Decreasing maximum classified results
+        button</string>
+    <string name="alt_bottom_sheet_max_results_button_plus">Increasing maximum classified results
+        button</string>
+    <string name="alt_bottom_sheet_threshold_button_minus">Decreasing threshold of classified image
+        results button</string>
+    <string name="alt_bottom_sheet_threshold_button_plus">Increasing threshold of classified image
+        results button</string>
+    <string name="alt_bottom_sheet_thread_button_minus">Decrease the number of threads used</string>
+    <string name="alt_bottom_sheet_thread_button_plus">Increase the number of threads used</string>
+
+    <string name="label_interence_time">Inference Time</string>
+    <string name="label_fps">Frames per Second</string>
+    <string name="label_confidence_threshold">Threshold</string>
+    <string name="label_max_results">Max Results</string>
+    <string name="label_threads">Number of Threads</string>
+    <string name="label_delegate">Delegate</string>
+    <string name="label_models">ML Model</string>
+    <string name="default_threshold">0.50</string>
+    <string name="default_inference_time">0ms</string>
+    <string name="default_max_results">3</string>
+
+    <string-array name="delegate_spinner_titles">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+
+    <string-array name="models_spinner_titles">
+        <item>MobileNet V1</item>
+        <item>EfficientNet Lite0</item>
+        <item>EfficientNet Lite1</item>
+        <item>EfficientNet Lite2</item>
+    </string-array>
+
+    <string name="app_title">CHANTARELLE CHECK</string>
+    <string name="app_title_addition">Your Pocket AI Mushroom Identifier</string>
+    <string name="terms_privacy">By continuing you agree to our <u>Terms</u> and <u>Privacy Policy</u></string>
+    <string name="action_button">Start exploring</string>
+    <string name="scanner">Scanner</string>
+    <string name="dataset">Collection</string>
+    <string name="lorem"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque laoreet volutpat metus ac finibus. Donec facilisis efficitur interdum. Sed bibendum justo sed volutpat auctor. Vestibulum non quam ullamcorper, commodo arcu in, ultricies ex. Aenean tristique lectus sed imperdiet ultricies. Aliquam sagittis est sit amet erat accumsan blandit. Donec vel elit aliquet neque tincidunt faucibus vitae vitae risus. Integer vel nisl commodo, venenatis arcu sit amet, molestie ante. Donec sagittis erat dapibus, tincidunt purus molestie, consectetur dolor. Sed bibendum nisl erat, ac congue ipsum tristique ut.
+Nulla porttitor, eros eu commodo fermentum, augue neque imperdiet risus, quis suscipit lectus neque id libero. Cras turpis elit, ultrices quis pellentesque et, maximus in libero. Nulla rutrum hendrerit magna et dapibus. Etiam blandit eget nisl a tempus. In tempus consectetur nisl, et dignissim mauris. Duis tincidunt magna massa, id porttitor leo consectetur ac. Vestibulum efficitur metus consectetur quam dictum commodo. Etiam lobortis, ipsum ac lobortis gravida, metus felis ultrices turpis, ac iaculis ligula tortor fringilla lectus. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="static_classify_label">Click on image to select the desired input</string>
+    <string name="static_classify_button">Classify</string>
+    <string name="static_image">Static image</string>
+    <string name="dont_remind"><u>Do not remind me</u></string>
+    <string name="home_navigation_tab">Home</string>
+    <string name="edible"><u>Edible</u></string>
+    <string name="terms_and_policy"><h1>Privacy Policy</h1></string>
+    <string name="wp_title">ATTENTION</string>
+    <string name="wp_text1">Edible and toxic mushrooms can easily be mistaken. DO NOT FULLY RELY ON THE IDENTIFICATION RESULTS.</string>
+    <string name="example">EXAMPLE</string>
+    <string name="ok">OK</string>
+    <string name="wp_text2">Always do your own research and never eat anything unless you are sure it is edible.</string>
+    <string name="start">Start</string>
+</resources>

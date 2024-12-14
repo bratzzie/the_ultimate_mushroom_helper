@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    xmlns:tools="http://schemas.android.com/tools">
+    <!-- Enable instant app support -->
+    <dist:module dist:instant="true" /> <!-- Declare features -->
+    <uses-feature android:name="android.hardware.camera" /> <!-- Declare permissions -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:taskAffinity=""
+        tools:ignore="AllowBackup">
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.ScanResultActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.HomeCollectionActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.FindingsActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.CollectionActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.CameraActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.CalendarActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.HomeActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.SingleElementView"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.StartActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.TermsAndPrivacyActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.WarningActivity"
+            android:exported="true"
+            android:theme="@style/StartTheme" />
+        <activity
+            android:name="org.nau.diploma.chantarellecheck.activities.BaseActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="orientation|screenLayout|screenSize|smallestScreenSize"
+            android:exported="true"
+            android:resizeableActivity="true"
+            android:rotationAnimation="seamless"
+            android:theme="@style/StartTheme"
+            tools:targetApi="O">
+            <meta-data
+                android:name="android.notch_support"
+                android:value="true" />
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

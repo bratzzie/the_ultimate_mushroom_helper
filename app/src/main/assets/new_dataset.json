@@ -1,0 +1,979 @@
+[
+  {
+    "name": "Horse Mushroom",
+    "id": "agaricus_arvensis",
+    "scientific_names": [
+      "Agaricus arvensis"
+    ],
+    "common_names": [
+      "Horse mushroom"
+    ],
+    "image_url": "images_dataset/agaricus_arvensis.jpeg",
+    "habitat": "Pasture, meadows, lawns, road verges and parks, often growing in rings.",
+    "distribution": "It is one of the largest white Agaricus species in Britain (where it appears during the months of July–November), West Asia (Iran), and North America.",
+    "cap": "10-16 cm. White, sometimes discoloured grey/brown, can be scaly or smooth. Starting spherical and opening out flat. Can bruise slightly yellow.",
+    "tubes": "Crowded and free of the stem. When very young the gills are almost white but quickly turn from pale pink/grey to brown in more mature specimens. On unopened caps, the ring while still joined to the cap, looks like a ‘cog wheel’.",
+    "stem": "10-16 cm long, 2-3 cm diameter. Smooth and white with a double edged ring, can be finely flocculose toward the base.",
+    "flesh": "White, firm and bruising slightly yellow. The flesh has an aniseed smell.",
+    "AMH": "10-16",
+    "ACW": "10-16",
+    "smell": "Taste not distinctive. Strong odour of aniseed",
+    "spore_print": "Dark purple-brown",
+    "frequency": "Common",
+    "confusion_items": [
+      {
+        "id": "agaricus_xanthodermus",
+        "name": "Yellow Stainer",
+        "eatable": "Poisonous",
+        "description": "Quickly turns bright chrome yellow when cut or bruised, and it smells of iodine or ink rather than of aniseed."
+      },
+      {
+        "id": "agaricus_macrosporus",
+        "name": "Agaricus urinascens var. urinascens",
+        "eatable": "Edible",
+        "description": "Is very similar in appearance but does not turn bright chrome yellow when cut or bruised.; it grows in open grassland and in woodland clearings."
+      }
+    ],
+    "season": "May-October",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Field Mushroom",
+    "id": "agaricus_campestris",
+    "scientific_names": [
+      "Agaricus campestris"
+    ],
+    "common_names": [
+      "Field mushroom", "Meadow Mushroom"
+    ],
+    "habitat": "Pasture, meadows, lawns, road verges and parks.",
+    "distribution": "The mushroom has been reported from Asia, Europe, northern Africa, Australia, New Zealand, and North America.",
+    "cap": "5-8 cm. White, sometimes discoloured grey/brown, can be scaley or smooth. Starting spherical and opening out flat. Can bruise slightly pink. The cuticle often hangs down over the edge of the cap and is a good indicator of a Field Mushroom.",
+    "tubes": "Crowded and free from the stem. The gills start deep pink and soon turn to dark brown with maturity.",
+    "stem": "5-7 cm long, 1-2 cm diameter. White and smooth above the ring, slightly scaly below, tapering at the base. The ring is delicate and only traces of it can usually be found.",
+    "flesh": "White, bruising slightly pink.",
+    "AMH": "5-7",
+    "ACW": "5-8",
+    "smell": "Not distinctive",
+    "spore_print": "Chocolate brown",
+    "frequency": "Common but becoming less so in fields that are sprayed with chemicals",
+    "confusion_items": [
+      {
+        "id": "agaricus_xanthodermus",
+        "name": "Yellow Stainer",
+        "eatable": "Poisonous",
+        "description": "Quickly turns bright chrome yellow when cut or bruised, and it smells of iodine or ink rather than of aniseed."
+      }
+    ],
+    "image_url": "images_dataset/agaricus_campestris.jpg",
+    "season": "May-November",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Blushing Wood Mushroom",
+    "id": "agaricus_silvaticus",
+    "scientific_names": [
+      "Agaricus silvaticus"
+    ],
+    "common_names": [
+      "Blushing Wood Mushroom", "The Scaly Wood Mushroom"
+    ],
+    "habitat": "Coniferous woodland but can be found with deciduous trees.",
+    "distribution": "In coniferous forests from early summer, or September through to November in Europe, North Africa and North America.",
+    "cap": "6-10 cm. Spherical when young becoming convex. Pale brown fibre-like lines turning into small scales over a paler background. Any bruising or damage to the cap turns almost immediately to a striking red colour, see photos above.",
+    "tubes": "Crowded and free of the stem. Gills off-white becoming grey to red to dark brown.",
+    "stem": "7-10 cm long, 1-1.2 cm diameter. White when young turning pale tan/grey. Can have a bulbous base.",
+    "flesh": "White, staining very red when cut and eventually fading to brown.",
+    "AMH": "7-10",
+    "ACW": "6-10",
+    "smell": "Not distinctive",
+    "spore_print": "Chocolate brown",
+    "frequency": "Uncommon",
+    "confusion_items": [
+      {
+        "id": "tricholoma_vaccinum",
+        "name": "Scaly Knight",
+        "eatable": "Edible",
+        "description": "has no ring and the gills are more red/brown"
+      }
+    ],
+    "image_url": "images_dataset/agaricus_silvaticus.png",
+    "season": "July-October",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Jewelled Amanita",
+    "id": "amanita_gemmata",
+    "scientific_names": [
+      "Amanita gemmata"
+    ],
+    "common_names": [
+      "Jewelled Amanita", "Gemmed Amanita,", "Amanita junquillea"
+    ],
+    "habitat": "Coniferous woodland.",
+    "distribution": "The species is distributed in areas of Asia and Europe. It is widely distributed (as a species cluster, not the actual Amanita gemmata) in North America, where it has been found as far south as Ixtlán de Juárez, Mexico. The species has been reported from the Dominican Republic. In South America, it is known from Chile and Colombia. In Asia, the mushroom has been collected from Iran and China.",
+    "cap": "6-10 cm. Convex to flat. Off-white, pale yellow covered in white pieces of velar remains or veil.",
+    "tubes": "Gills white, adnexed (slightly connected to stem), crowded.",
+    "stem": "7-11 cm long, 1-2 cm diameter. White, slightly yellowish. Bulbous at the base with a delicate volva sometimes hollowing in the middle.",
+    "flesh": "White with pale yellow flush in the stem.",
+    "AMH": "7-11",
+    "ACW": "6-10",
+    "smell": "Not significant",
+    "spore_print": "White. Ovoid.",
+    "frequency": "Uncommon",
+    "confusion_items": [
+      {
+        "id": "russula_fellea",
+        "name": "Geranium Brittlegil",
+        "eatable": "Poisonous",
+        "description": "Could potentially be confused with some of the yellow Russulas but Russulas don’t have a skirt or volva and have brittle gills."
+      }
+    ],
+    "image_url": "images_dataset/amanita_gemmata.jpg",
+    "season": "May-October",
+    "eatable": "Poisonous"
+  },
+  {
+    "name": "Fly Agaric",
+    "id": "amanita_muscaria",
+    "scientific_names": [
+      "Amanita muscaria"
+    ],
+    "common_names": [
+      "Fly Agaric"
+    ],
+    "habitat": "Birch woods in particular but can be found in other mixed woodland.",
+    "distribution": "Usually recurring in the same place for several years, Amanita muscaria is found frequently throughout the northern hemisphere, including Britain and Ireland, mainland Europe, Asia, the USA and Canada.",
+    "cap": "8-14 cm. Hemispherical at first when it can sometimes be more orangey than red, then opening flat with a bright red cap covered in white to yellow scales which are the remains of the volvic sack. The scales can be washed off during rain to leave a smooth red cap.",
+    "tubes": "Crowded and free of the stem. White to cream.",
+    "stem": "8-14 cm tall, 1-2 cm diameter. Appearing from a volva (a bulbous egg like structure) the stem is white with shaggy remains of the volva sticking to it, it also has a skirt higher up the stem.",
+    "flesh": "White.",
+    "AMH": "8-14 Though can be found much bigger occasionally.",
+    "ACW": "8-14 Though can be found much bigger occasionally.",
+    "smell": "Savoury",
+    "spore_print": "White. Ellipsoid",
+    "frequency": "Common",
+    "confusion_items": [
+      {
+        "id": "amanita_pantherina",
+        "name": "Panthercap",
+        "eatable": "Poisonous",
+        "description": "Very closely related to the Fly Agaric with a darker brown cap. It contains exactly the same toxins as the Fly Agaric, but in more variable and usually higher concentrations."
+      },
+      {
+        "id": "amanita_gemmata",
+        "name": "Jewelled Amanita",
+        "eatable": "Poisonous ",
+        "description": "Also closely related to the Fly Agaric and Panthercap, it could pass as a yellowish Fly Agaric (yellow forms of Fly Agaric exist). It might contain the same toxins as the other two but we couldn’t find enough reliable information. Like the Panthercap some books report it as very poisonous, it is wiser to avoid it."
+      }
+    ],
+    "image_url": "images_dataset/amanita_muscaria.jpg",
+    "season": "July-November",
+    "eatable": "Extremely poisonous"
+  },
+  {
+    "name": "Panthercap",
+    "id": "amanita_pantherina",
+    "scientific_names": [
+      "Amanita pantherina"
+    ],
+    "common_names": [
+      "Panthercap", "Amanita Panther"
+    ],
+    "habitat": "Most types of woodland, particularly beech.",
+    "distribution": "The panther cap is an uncommon mushroom, found throughout Europe, western Asia in late summer and autumn. It has also been recorded from South Africa, where it is thought to have been accidentally introduced with trees imported from Europe and Asia",
+    "cap": "8-12 cm. Convex, flattening a bit with age. Dark brown to slightly red brown covered in thick white scales or ‘warts’ left from the veil of the volva.",
+    "tubes": "Crowded and free of the stem. White.",
+    "stem": "10-14 cm long, 1-2 cm diameter. White and shaggy under the skirt, smoother above.",
+    "flesh": "White, sometimes hollow in the stem.",
+    "AMH": "10-14",
+    "ACW": "8-12",
+    "smell": "Not distinctive, but when bruised the flesh smells slightly of radish.",
+    "spore_print": "White",
+    "frequency": "Not common",
+    "confusion_items": [
+      {
+        "id": "amanita_rubescens",
+        "name": "Blusher",
+        "eatable": "Edible",
+        "description": "The Blusher has off-white, often blushing warts on its cap, and it blushes all over the fruit body where it had been damaged or cut, also there are striations on the upper surface of its skirt."
+      },
+      {
+        "id": "amanita_excelsa",
+        "name": "Grey Spotted Amanita",
+        "eatable": "Edible",
+        "description": "The Grey Spotted Amanita has off-white to grey warts or scales on its cap, and has striations on the upper surface of its skirt."
+      }
+    ],
+    "image_url": "images_dataset/amanita_pantherina.jpeg",
+    "season": "June-November",
+    "eatable": "Extremely poisonous"
+  },
+  {
+    "name": "Deathcap",
+    "id": "amanita_phalloides",
+    "scientific_names": [
+      "Amanita Phalloides"
+    ],
+    "common_names": [
+      "Deathcap"
+    ],
+    "habitat": "Most mixed woodland, particularly with oak and other deciduous trees.",
+    "distribution": "The death cap is native to Europe, where it is widespread. It is found from the southern coastal regions of Scandinavia in the north, to Ireland in the west, east to Poland and western Russia, and south throughout the Balkans, in Greece, Italy, Spain, and Portugal in the Mediterranean basin, and in Morocco and Algeria in north Africa. In west Asia, it has been reported from forests of northern Iran.",
+    "cap": "8-12 cm. Convex at first then opening and flattening. The cap colour can vary from olive green to dirty yellow or even tan brown. Slimy when wet but still looking shiny when dry.",
+    "tubes": "Crowded and free of the stem. White to cream.",
+    "stem": "10-14 cm long, 1-1.5 cm diameter. White with a bulbous base and surrounded by a thin veil (volva) which is sack-like at ground height, tapering slightly towards the cap. The top of the volva will often be found attached to the stem more than halfway up, looking like a skirt.",
+    "flesh": "White",
+    "AMH": "10-14",
+    "ACW": "8-12",
+    "smell": "DO NOT try any part of this mushroom.",
+    "spore_print": "White",
+    "frequency": "Uncommon but can become more frequent some years when the conditions are right.",
+    "confusion_items": [
+      {
+        "id": "amanita_citrina",
+        "name": "False Deathcap",
+        "eatable": "Inedible",
+        "description": "False Deathcap generally has brownish-cream veil fragments on the cap, and a volval rim around its base rather than an open sack-like volva."
+      }
+    ],
+    "image_url": "images_dataset/amanita_phalloides.jpg",
+    "season": " July-October",
+    "eatable": "Deathly poisonous"
+  },
+  {
+    "name": "Penny Bun",
+    "id": "boletus_edulis",
+    "scientific_names": [
+      "Boletus edulis"
+    ],
+    "common_names": [
+      "Penny Bun", "King Bolete"
+    ],
+    "habitat": "Mixed woodland but found more with beech, oak or pine.",
+    "distribution": "It is common in Europe—from northern Scandinavia, south to the extremities of Greece and Italy—and North America, where its southern range extends as far south as Mexico. It is well known from the Borgotaro area of Parma, Italy, and has PGI status there. The European distribution extends north to Scandinavia and south to southern Italy and Morocco. In the American Pacific Northwest, it can be found from May to October. In China, the mushroom can be found from the northeastern Heilongjiang to the Yunnan–Guizhou Plateau and Tibet. It has been recorded growing under Pinus and Tsuga in Sagarmatha National Park in Nepal, as well as in the Indian forests of Arunachal Pradesh. In West Asia, the species has been reported from the northwest forests of Iran.",
+    "cap": "7-12 cm. White when very young, maturing to look like a crusty brown roll, hence the name penny bun. The edge of the cap is often white. Slug marks expose white flesh.",
+    "tubes": "Has very small white pores which can yellow a bit with age.",
+    "stem": "10-14 cm long, 2-4 cm diameter. Thick, bulbous and white ageing to slightly tan yellow. The stem has a fine net like covering just under the cap and sometimes extending all the way down the stem, solid when young, fresh or free from maggots.",
+    "flesh": "White slightly yellowing with age.",
+    "AMH": "10-14",
+    "ACW": "7-12",
+    "smell": "Excellent raw or fried in butter when fresh",
+    "spore_print": "Green/brown",
+    "frequency": "Fairly common if you know where to look",
+    "confusion_items": [
+      {
+        "id": "boletus_reticulatus",
+        "name": "Summer Bolete",
+        "eatable": "Edible",
+        "description": "The Summer Bolete looks very similar but has a slightly darker stem, not as solid flesh, lacks the white cap edge and grows in early Summer."
+      }
+    ],
+    "image_url": "images_dataset/boletus_edulis.jpeg",
+    "season": "June-September",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Summer Bolete",
+    "id": "boletus_reticulatus",
+    "scientific_names": [
+      "Boletus reticulatus", "Boletus aestivalis"
+    ],
+    "common_names": [
+      "Summer Bolete", "Summer Cep"
+    ],
+    "habitat": "Mainly with Beech and Oak but can grow with other broad leaved trees.",
+    "distribution": "It is particularly common in the south and west of France, as well as in Tosco-Emiliano Apennine in Italy. It is less host-specific than other porcini mushrooms. It occurs in Ukraine, Russia.",
+    "cap": "7-12 cm. Starting slightly velvety becoming finely cracked. Pale brown to brown yellow.",
+    "tubes": "Has very small white pores which can yellow a bit with age.",
+    "stem": "10-14 cm long, 2-5 cm diameter. Can have a barrel shaped or parallel off white stem overlaid with a mesh that is lighter towards the cap.",
+    "flesh": "White slightly yellowing with age.",
+    "AMH": "10-14",
+    "ACW": "7-12",
+    "smell": "Very good but not as strong as the Penny Bun",
+    "spore_print": "Olive brown",
+    "frequency": "Occasional",
+    "confusion_items": [
+      {
+        "id": "Boletus edulis",
+        "name": "Penny Bun",
+        "eatable": "Edible",
+        "description": "The Penny Bun usually has a whiter stem, a white border around the edge of the cap, firmer flesh and comes out in late Summer and Autumn."
+      },
+      {
+        "id": "tylopilus_felleus",
+        "name": "Bitter Bolete",
+        "eatable": "Inedible",
+        "description": "You could potentially confuse this mushroom with the Bitter Bolete, which although not poisonous will ruin any meal you are unfortunate enough to add this mushroom to. A little nibble of the mushroom when raw will soon identify it with the Summer Bolete being delicious and the Bitter Bolete being as bitter as sin! A better way to distinguish the two is that the Summer Bolete has a lighter net like mesh on a slightly darker stem, the Bitter Bolete has a darker mesh on a lighter stem, pictured."
+      }
+    ],
+    "image_url": "images_dataset/boletus_reticulatus.jpg",
+    "season": "June-September",
+    "eatable": "Edible"
+  },
+
+  {
+    "name": "Yellow Stagshorn",
+    "id": "calocera_viscosa",
+    "scientific_names": [
+      "Calocera viscosa", "Calocera flammea", "Merisma viscosum", "Clavaria viscosa"
+    ],
+    "common_names": [
+      "Yellow Stagshorn", "Jelly Antler Fungus"
+    ],
+    "habitat": "Saprotrophic on woods. Grows on stumps, dead branches or roots of Pine and Spruce trees, regardless if they are in a forest, a plantation, a park or a private garden. Sometimes can be found on conifer bark woodchips too.",
+    "distribution": "It was originally described from Germany and is common throughout Europe, but has also been recorded from North America, Asia, and Australia.",
+    "cap": " ",
+    "tubes": " ",
+    "stem": "2–9 cm tall, 2–5 cm wide, coral-like, branched (like an antler) and forked. It has a more or less deeply rooting stem. The whole fruit body is bright yellow to orange, darker orange to red when dry, might be paler towards the base. Smooth, viscid or tacky, especially after rains.",
+    "flesh": "Yellow, somewhat viscid, tough when dry.",
+    "AMH": "2–10",
+    "ACW": " ",
+    "smell": "Taste and smell is not distinctive",
+    "spore_print": "White",
+    "frequency": "Frequent and widespread",
+    "confusion_items": [
+      {
+        "id": "clavulinopsis_corniculata",
+        "name": "Meadow Coral",
+        "eatable": "Inedible",
+        "description": "Meadow Coral looks rather identical, but it is often a bit paler and not slimy, not to mention it is growing on different habitat (among grass and mosses)."
+      }
+    ],
+    "image_url": "images_dataset/calocera_viscosa.jpg",
+    "season": "July-Late autumn",
+    "eatable": "Inedible"
+  },
+
+  {
+    "name": "Chanterelle",
+    "id": "cantharellus_cibarius",
+    "scientific_names": [
+      "Cantharellus Cibarius"
+    ],
+    "common_names": [
+      "Chanterelle", "Golden Chanterelle"
+    ],
+    "habitat": "All types of woodland but mainly with beech in England and birch in Scotland and usually growing in moss.",
+    "distribution": "The species grows in Europe from Scandinavia to the Mediterranean Basin.",
+    "cap": "3-8 cm. Flattened at first with irregular margin becoming depressed towards the centre. Often undulating all round the edges, later turning up to form a loose trumpet. Yellow with white flesh.",
+    "tubes": "Does not have true bladed gills but forked, slightly rounded folds that look like gills. These run part way down the stem (decurrent).",
+    "stem": "3-8 cm long, 0.5-1.5 cm diameter. Solid, tapering towards the base. Yellow with white flesh on cutting.",
+    "flesh": "The Chanterelle has white flesh.",
+    "AMH": "4-7",
+    "ACW": "3-8",
+    "smell": "Chanterelles smell fruity, quite like apricots",
+    "spore_print": "Ochraceous. Ellipsoid",
+    "frequency": "Fairly common",
+    "confusion_items": [
+      {
+        "id": "hygrophoropsis_aurantiaca",
+        "name": "False Chanterelle",
+        "eatable": "Poisonous",
+        "description": "The False Chanterelle looks similar but is more orangey yellow, when cut in half it does not have the white flesh of the true Chanterelle but is concolorous with the cap, and its gills are more crowded. Said to be edible but poor in older books, it can apparently cause food poisoning symptoms and even hallucinations for some people so it’s better avoided."
+      }
+    ],
+    "image_url": "images_dataset/cantharellus_cibarius.jpeg",
+    "season": "July-November",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Dryad's Saddle",
+    "id": "cerioporus_squamosus",
+    "scientific_names": [
+      "Cerioporus squamosus", "Polyporus squamosus"
+    ],
+    "common_names": [
+      "Dryad's Saddle", "Pheasant's Back", "Scaly Polypore", "Cyfrwy Cennog"
+    ],
+    "habitat": "Deciduous trees and stumps.",
+    "distribution": "This organism is common and widespread, being found east of the Rocky Mountains in the United States and over much of Europe. It is also found in Australia and Asia.",
+    "cap": "20-40cm but can sometimes be found much larger. A large circular or fan shaped bracket. Ochre to dark yellow with darker, concentric circles of brown scales.",
+    "tubes": "Large angular and irregular off white to ochre pores that run down the stem.",
+    "stem": "A woody lateral stem up to 8cm long and 5cm wide but tapering towards the darkening to black base.",
+    "flesh": "White, thick and succulent when young becoming leathery then corky as it matures.",
+    "AMH": "6-10",
+    "ACW": "20-40",
+    "smell": "A bit like water melon when young, fresh and raw but mushroomy when cooked or dried and powdered for stock",
+    "spore_print": "White. Ellipsoid",
+    "frequency": "Common",
+    "confusion_items": [
+      {
+        "id": "polyporus_tuberaster",
+        "name": "Tuberous Polypore",
+        "eatable": "Edible",
+        "description": "The Tuberous Polypore looks very similar but is generally smaller, the stem is more central and less eccentric, the stem base may darken but will not be black and the patterning on the cap is lighter than the Dryads Saddle."
+      }
+    ],
+    "image_url": "images_dataset/coprinus_comatus.jpg",
+    "season": "July-October",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Shaggy Inkcap",
+    "id": "coprinus_comatus",
+    "scientific_names": [
+      "Coprinus comatus"
+    ],
+    "common_names": [
+      "Shaggy Inkcap", "Lawyer's Wig", "Judges Wig"
+    ],
+    "habitat": "Grows in grass by the sides of roads, lawns, flower beds, grassland and recently disturbed soil. Can be found individually or in large numbers.",
+    "distribution": "t occurs widely in grasslands and meadows in Europe and North America, from June through to November in the UK. It appears to have been introduced to Australia, New Zealand and Iceland.",
+    "cap": "4-6 cm. A finger shaped, long cylindrical cap. White with off-white/pale tan scales, can have a pink tinge. The whole cap deliquesces or melts very soon after maturity.",
+    "tubes": "Gills white turning pink and then grey to black when they start to ‘melt’ from the edges. Crowded and free of the stem.",
+    "stem": "8-14 cm long, 0.5-1.4 cm diameter. White sometimes hollow, long, thin and with a slight ring that detaches easily. Slightly swollen base.",
+    "flesh": "White.",
+    "AMH": "8-14",
+    "ACW": "4-6",
+    "smell": "Very good when young",
+    "spore_print": "Blackish brown. Ellipsoid",
+    "frequency": "Very common",
+    "confusion_items": [
+      {
+        "id": "coprinopsis_picacea",
+        "name": "Magpie Inkcap",
+        "eatable": "Poisonous",
+        "description": "A distinctive mushroom with only the Magpie Inkcap looking similar but the two can be separated by the Magpie Inkcap, pictured, having light scales on a dark background and the Shaggy Inkcap having a white background with white or slightly darker scales."
+      }
+    ],
+    "image_url": "images_dataset/coprinus_comatus.jpg",
+    "season": "July-October",
+    "eatable": "Edible"
+  },
+
+  {
+    "name": "Velvet Shank",
+    "id": "flammulina_velutipes",
+    "scientific_names": [
+      "Flammulina velutipes"
+    ],
+    "common_names": [
+      "Velvet Shank"
+    ],
+    "habitat": "Growing on dead stumps and trunks of deciduous trees, particularly elm. Sometimes found on diseased living trees. Can grow in huge tiers and groups.",
+    "distribution": "From autumn through winter and into early spring, Flammulina velutipes is fairly common throughout Britain and Ireland; it also occurs in most parts of Mainland Europe, North Africa and Asia as well as in North America",
+    "cap": "2-6 cm. Widely convex but due to the proximity of neighbouring caps the shape is usually distorted. Orange yellow/brown, darker in the middle. Smooth and viscid.",
+    "tubes": "Gills white becoming pale yellow/cream. Broadly to narrowly attached to the stem (adnate to emarginate). Gills of different lengths with some not reaching the stem. Not very crowded.",
+    "stem": "2-6 cm long, 0.4-0.8 cm diameter . Pale yellow becoming dark brown to black and velvety with maturity, sometimes keeping a yellow apex. Quite tough.",
+    "flesh": "Thin and orange brown, darker in mature stems.",
+    "AMH": "2-6",
+    "ACW": "2-6",
+    "smell": "Good but the skin on the cap should be removed before cooking",
+    "spore_print": "Slightly off white. Ellipsoid",
+    "frequency": "Fairly common",
+    "confusion_items": [
+      {
+        "id": "galerina_marginata",
+        "name": "Funeral Bell",
+        "eatable": "Poisonous",
+        "description": "The Funeral Bell is similar and deadly poisonous but it has a skirt on the stem. Velvet Shanks usually grow in larger clusters than Funeral Bells."
+      }
+    ],
+    "image_url": "images_dataset/flammulina_velutipes.jpg",
+    "season": "October-March",
+    "eatable": "Edible"
+  },
+
+  {
+    "name": "Saffron Milkcap",
+    "id": "lactarius_deliciosus",
+    "scientific_names": [
+      "Lactarius deliciosus"
+    ],
+    "common_names": [
+      "Saffron Milkcap", "Red Pine Mushroom"
+    ],
+    "habitat": "Growing under pines.",
+    "distribution": "Widespread but uncommon in Britain and Ireland, this kind of milkcap is found throughout Europe and in parts of North America and Australia.",
+    "cap": "Convex with a depression in the centre when young becoming shallowly funnel-shaped. Salmon pink/orange with darker concentric rings. Green areas especially on aging or bruising.",
+    "tubes": "Gills pale pink/saffron becoming carrot coloured and eventually bruising green. Gills running slightly down the stem and quite crowded.",
+    "stem": "Orange to salmon pink with darker spots or shallow depressions or pits. Can have green markings.",
+    "flesh": "Orange becoming white towards the centre of the stem. Exudes carrot coloured milk which will turn green after drying.",
+    "AMH": "7",
+    "ACW": "10",
+    "smell": "Good with a crisp texture",
+    "spore_print": "Pale ochre to pale salmon coloured",
+    "frequency": "Uncommon in the South becoming more prevalent the further North you look",
+    "confusion_items": [
+      {
+        "id": "lactarius_torminosus",
+        "name": "Woolly Milkcap",
+        "eatable": "Poisonous",
+        "description": "The Woolly Milkcap this has ‘woolly’ edges to the cap that extend in towards the stem and has off white milk not Carrot coloured."
+      }
+    ],
+    "image_url": "images_dataset/lactarius_deliciosus.jpg",
+    "season": "July-October",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Aspen Bolete",
+    "id": "leccinum_albostipitatum",
+    "scientific_names": [
+      "Leccinum albostipitatum"
+    ],
+    "common_names": [
+      "Aspen Bolete"
+    ],
+    "habitat": "Associates with Populus species, i.e, various Poplars and Aspens.",
+    "distribution": "This fungus is commonly found in Europe, where it grows in association with poplar.",
+    "cap": "5-10 cm. Orangey red, domed even in mature specimens. Flaps of skin hanging over the edge up to 6mm lasting into maturity.",
+    "tubes": "Off white to grey small round pores.",
+    "stem": "7-20 cm long and 2-5vcm diameter. Proportionally long. Very solid, tapering towards the cap. White with floccules (small raised protrusions found on the stem of the Leccinum genus). These floccules can be a gingery/foxy colour in some areas, but never dense dark brown. Base can be swollen and blue.",
+    "flesh": "Firm, thick. White at first, then sometimes turning wine red, then greys to almost black. Sometimes turning blue in the base.",
+    "AMH": "10-20",
+    "ACW": "5-15",
+    "smell": " ",
+    "spore_print": "Olivaceous brown",
+    "frequency": "Uncommon or rare",
+    "confusion_items": [
+      {
+        "id": "leccinum_aurantiacum",
+        "name": "Orange Bolete",
+        "eatable": "Edible",
+        "description": "The Orange Bolete is very very similar. The stem has darker ‘floccules‘, and the cap is a redder, more foxy colour"
+      }
+    ],
+    "image_url": "images_dataset/leccinum_albostipitatum.jpeg",
+    "season": "June-October",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Brown Birch Bolete",
+    "id": "leccinum_scabrum",
+    "scientific_names": [
+      "Leccinum scabrum", "Leccinum roseofractum", "Leccinum avellanum"
+    ],
+    "common_names": [
+      "Brown Birch Bolete"
+    ],
+    "habitat": "Under and around Birch trees.",
+    "distribution": "Frequent in Britain and Ireland, the Brown Birch Bolete is also common throughout most of mainland Europe, from Scandinavia right down to the Mediterranean and westwards across the Iberian peninsula. Leccinum scabrum is also very common in North America.",
+    "cap": "7-10 cm. Smooth, starting hemispherical and flattening with age. Varying shades of brown. Sticky when wet.",
+    "tubes": "White to white/greyish pores discolouring with age and bruising brown.",
+    "stem": "8-13 cm long, 1.5-3 cm diameter. White to grey with a covering of small dark scales or floccules, giving it a dirty appearance. Tapering towards the top.",
+    "flesh": "White, unchanging when cut or turning slightly pink but turning black when cooked.",
+    "AMH": "8-13",
+    "ACW": "7-10",
+    "smell": "The faint smell and taste are pleasant but not particularly distinctive",
+    "spore_print": "Brown. Subfusiform",
+    "frequency": "Common",
+    "confusion_items": [
+      {
+        "id": "leccinum_duriusculum",
+        "name": "Slate Bolete",
+        "eatable": "Edible",
+        "description": "The Slate Bolete is very similar but grows in association with Poplars not Birch as the Brown Birch Bolete does."
+      }
+    ],
+    "image_url": "images_dataset/lycoperdon_perlatum.jpeg",
+    "season": "Spring-Autumn",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Lycoperdon perlatum",
+    "id": "lycoperdon_perlatum",
+    "scientific_names": [
+      "Lycoperdon perlatum"
+    ],
+    "common_names": [
+      "Common Puffball", "Devils Snuffbox", "Wolf Farts"
+    ],
+    "habitat": "Mixed woodland, pasture, commons and heaths. Can grow individually but usually in groups with the chance of finding more nearby.",
+    "distribution": "This puffball is also very common and widespread throughout mainland Europe and Asia as well as Africa, Australia, and South and Central America.",
+    "cap": " ",
+    "tubes": " ",
+    "stem": "Starting spherical becoming slightly flattened or club-shaped. White turning cream to brown with small pyramid shaped warts, which when rubbed off leave a net-like pattern. Darker umbo-like top which opens to release the spores. Has a white stem-like growth under the main fruiting body which is tapered or club-like and covered in small pyramid-like warts.",
+    "flesh": "White becoming brown and powdery as the spores form.",
+    "AMH": "8",
+    "ACW": "5",
+    "smell": "Mild, can be a bit ‘spongy’ in texture. Must be eaten while the flesh is still white throughout.",
+    "spore_print": "Olive/brown",
+    "frequency": "Very common",
+    "confusion_items": [
+      {
+        "id": "amanita_phalloides",
+        "name": "Death Cap",
+        "eatable": "Extremely Poisonous",
+        "description": "Can be confused with very young Amanitas, pictured are Death Cap ‘eggs’, so the mushrooms should be sliced vertically, the stem and cap of the Amanita will be obvious within an Amanita egg, a puffball should be pure white and spongy inside."
+      }
+    ],
+    "image_url": "images_dataset/lycoperdon_perlatum.jpeg",
+    "season": "Spring-Autumn",
+    "eatable": "Edible"
+  },
+
+  {
+    "name": "Morel",
+    "id": "morchella_esculenta",
+    "scientific_names": [
+      "Morchella esculenta", "Morchella rotunda", "Morchella crassipes"
+    ],
+    "common_names": [
+      "Morel", "True Morel", "Common Morel", "Yellow Morel"
+    ],
+    "habitat": "Open woods, pastures, gardens, wasteland, gravel and often on verges between roads and woods or fields. Also on sand dunes. It is mostly reported from poor alkaline soils such as chalk and limestone.",
+    "distribution": "Infrequent finds in Britain and Ireland, Morels (sometimes referred to as Common Morels or Yellow Morels) occur throughout Europe. They are also reported from many Asian countries and from sites throughout most of North America.",
+    "cap": "Conical or ovate with a network of irregular ridges and pits looking honeycomb-like. The cap is hollow and joined to the stem at its edge. It is yellow, paling with age usually with lighter ridges. Sometimes it discolours to ochre or rusty orange where bruised or with aging.  Size and colour can vary greatly within this particular mushroom, many varieties have been described by mycologists.",
+    "tubes": " ",
+    "stem": "White/cream, hollow sometimes widening towards a bulbous base. Uneven furrows run vertically up the stem.",
+    "flesh": "Fairly thin, white on the inside. It has a faint pleasant smell that intensifies after drying.",
+    "AMH": "20",
+    "ACW": "15",
+    "smell": "Excellent, strongly mushroomy and even meaty. Must be well cooked before consumption. All Morels are poisonous when raw or undercooked causing gastric upsets and other alarming symptoms",
+    "spore_print": "Pale cream to yellow",
+    "frequency": "Uncommon",
+    "confusion_items": [
+      {
+        "id": "gyromitra_esculenta",
+        "name": "False Morel",
+        "eatable": "Poisonous",
+        "description": "The False Morel is more lobed or brain-like rather than the pitted and honeycomb like cap of the morel. The False Morel also differs in not having a completely hollow cap."
+      },
+      {
+        "id": "morchella_importuna",
+        "name": "Black Morel",
+        "eatable": "Edible",
+        "description": "The Black Morel can be similar, even in colour when young, but usually the ridges are arranged in fairly regular vertical lines, unlike the completely random honeycomb of the Yellow Morels. The ridges on the Black Morel also become darker than the rest of the cap with age, unlike the paler ridges of Yellow Morels."
+      }
+    ],
+    "image_url": "images_dataset/morchella_esculenta.jpeg",
+    "season": "April-May",
+    "eatable": "Conditionally edible"
+  },
+  {
+    "name": "Paxillus involutus",
+    "id": "paxillus_involutus",
+    "scientific_names": [
+      "Paxillus involutus"
+    ],
+    "common_names": [
+      "Brown Rollrim", "Common Rollrim", "Poison Pax"
+    ],
+    "habitat": "Broad leaved woodland, particularly birch and  on heathland and grassland including lawns.",
+    "distribution": "It occurs throughout Britain and Ireland, and it is also found in most regions of mainland Europe from northern Scandinavia to the southernmost parts of the Iberian Peninsula. Paxillus involutus is also commonly seen in in Asia, North America, Australia and New Zealand. ",
+    "cap": "Flattened with a slight depression towards the middle with the edges always rolling under to the gills. Rusty brown with a slimy cap when wet.",
+    "tubes": "Gills very pale yellow/brown bruising darker. Crowded and running down the stem.",
+    "stem": "Pale brown, smooth and darkening on bruising.",
+    "flesh": "Pale brown yellow darkening on cutting.",
+    "AMH": "8",
+    "ACW": "20",
+    "smell": "Do not taste any part of this mushroom",
+    "spore_print": "Burnt brown",
+    "frequency": "Very common",
+    "confusion_items": [
+    ],
+    "image_url": "images_dataset/paxillus_involutus.jpeg",
+    "season": "June-November",
+    "eatable": "Poisonous"
+  },
+  {
+    "name": "Russula claroflava",
+    "id": "russula_claroflava",
+    "scientific_names": [
+      "Russula claroflava"
+    ],
+    "common_names": [
+      "Yellow Swamp Brittlegill", "Yellow Swamp Russula"
+    ],
+    "habitat": "Wet boggy ground in mixed woodland, particularly with birch.",
+    "distribution": " Russula claroflava occurs throughout Britain and Ireland and wherever there are birch trees in northern and central mainland Europe. This species is recorded also in North America, and in particular the Pacific Northwest.",
+    "cap": "Convex flattening out with a depression in the centre. Bright egg yellow and usually shiny. Sticky to the touch.",
+    "tubes": "Gills white and attached to the stem. Crowded. Bruising grey. Brittle to the touch.",
+    "stem": "White and not tapering with no skirt. Should snap like a piece of chalk.",
+    "flesh": "White bruising grey.",
+    "AMH": "10",
+    "ACW": "10",
+    "smell": "Good. Mild with slight heat",
+    "spore_print": "Pale ochre",
+    "frequency": "Uncommon",
+    "confusion_items": [
+      {
+        "id": "russula_fellea",
+        "name": "Geranium Brittlegill",
+        "eatable": "Poisonous",
+        "description": "The Geranium Brittlegill is dirtier yellow with a smell of geraniums and is very hot when placed on the tongue."
+      }
+    ],
+    "image_url": "images_dataset/russula_claroflava.jpeg",
+    "season": "June-October",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Charcoal Burner",
+    "id": "russula_cyanoxantha",
+    "scientific_names": [
+      "Russula cyanoxantha"
+    ],
+    "common_names": [
+      "Charcoal Burner"
+    ],
+    "habitat": "Mixed and broad leaved woodland particularly beech. Said to grow in troops but I have only found individual mushrooms.",
+    "distribution": "Russula cyanoxantha occurs throughout Britain and Ireland and wherever there are oak and beech trees on mainland Europe. This brittlegill occurs also in parts of North America.",
+    "cap": "Convex to flattening with a depression in the centre. The colour can vary considerably being olive, brown, wine, grey, purple or even yellowish. Greasy when wet.",
+    "tubes": "Gills white and flexible unlike other Russulas whose gills are brittle.",
+    "stem": "White, firm and staining slightly green when rubbed with iron salts.",
+    "flesh": "White, thick and firm.",
+    "AMH": "11",
+    "ACW": "15",
+    "smell": "Good, mild and nutty",
+    "spore_print": "White to pale cream",
+    "frequency": "Fairly common",
+    "confusion_items": [
+    ],
+    "image_url": "images_dataset/russula_cyanoxantha.jpeg",
+    "season": "June-September",
+    "eatable": "Edible"
+  },
+
+  {
+    "name": "Flirt",
+    "id": "russula_vesca",
+    "scientific_names": [
+      "Russula vesca"
+    ],
+    "common_names": [
+      "Flirt", "Bare Toothed Brittlegill"
+    ],
+    "habitat": "Russula vesca is particularly common in Beech woodland in Britain and Ireland but, particularly on mainland Europe, it is also found in spruce plantations on neutral or acidic soil. In common with other members of the Russulaceae, Russula vesca is an ectomycorrhizal mushroom. ",
+    "distribution": "Russula vesca appears in summer or autumn, and grows primarily in deciduous forests in Europe, and North America.",
+    "cap": "The cap has a smooth surface and is 5 to10cm across, initially globose, becoming convex and sometimes developing a shallow central depression. The cuticle of mature specimens does not quite reach the margin - typical shortfall about 1mm - and so the cap flesh and gill edges are visible from the top. The cuticle peels about 50% from the cap margin.",
+    "tubes": "Adnexed; white or very pale cream; spacing fairly close; narrow; forked near to the stem",
+    "stem": "3 to 10cm long and 1.5 to 2.5cm in diameter; white surface and white flesh. ",
+    "flesh": "White",
+    "AMH": "2-10",
+    "ACW": "5-10",
+    "smell": "Mild nutty flavour",
+    "spore_print": "White",
+    "frequency": "Common",
+    "confusion_items": [
+      {
+        "id": "russula_xerampelina",
+        "name": "Crab Brittlegill",
+        "eatable": "Edible",
+        "description": "The Crab Brittlegill, smells strongly of fish or shellfish. "
+      }
+    ],
+    "image_url": "images_dataset/russula_vesca.jpeg",
+    "season": "July-September",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Russula Virescens",
+    "id": "russula_virescens",
+    "scientific_names": [
+      ""
+    ],
+    "common_names": [
+      "Greencracked Brittlegill", "Green Cracking Russula"
+    ],
+    "habitat": "Broad leaved woodland, especially beech.",
+    "distribution": "This is an uncommon but nevertheless widespread woodland mushroom in Britain, Ireland and mainland Europe; it occurs also in much of Asia and in northern Africa. ",
+    "cap": "Green and tan cracked areas towards the edges, on top of a white/cream background. Convex then opening flat with a depression in the middle, the edges often split with age.",
+    "tubes": "Gills white/cream coloured, fairly crowded and brittle when handled.",
+    "stem": "White/off white sometimes browning slightly. The stem is brittle and should break a little like chalk.",
+    "flesh": "White.",
+    "AMH": "9",
+    "ACW": "13",
+    "smell": "Good, quite nutty",
+    "spore_print": "White/off white",
+    "frequency": "Uncommon",
+    "confusion_items": [
+    ],
+    "image_url": "images_dataset/russula_virescens.jpg",
+    "season": "May-November",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Weeping Bolete",
+    "id": "suillus_granulatus",
+    "scientific_names": [
+      "Suillus granulatus", "Boletus lactifluus"
+    ],
+    "common_names": [
+      "Weeping Bolete", "Granulated Bolete", "Ringless Slippery Jack"
+    ],
+    "habitat": "Suillus granulatus is a mycorrhizal mushroom that appears beneath coniferous trees, and in particular Scots Pine.",
+    "distribution": "Fairly common in Britain and Ireland, the Weeping Bolete is also very common across most of mainland Europe and in parts of North America.",
+    "cap": "Cinnamon brown to orange brown the sticky caps of thye Weeping Bolete grow to between 4 and 10cm in diameter and remain convex. The cap flesh is pale yellow and soft; it does not change colour when the cap is cut.",
+    "tubes": "A characteristic feature of this species is the presence of milky droplets that are exuded by the tiny circular pores. These droplets eventually darken as they dry.",
+    "stem": "The stem of this bolete is very pale straw yellow and has no ring or ring zone. Towards the apex of the stem, the surface is granular (from which feature this species gets its common name); the granules, which are formed as milky droplets exuded from the stem flesh, harden as they dry.",
+    "flesh": "Like the cap, when cut the pale yellow stem flesh does no change colour. ",
+    "AMH": "4-8",
+    "ACW": "4-10",
+    "smell": "Not distinctive",
+    "spore_print": "Ochre or sienna-brown",
+    "frequency": "Fairly common",
+    "confusion_items": [
+      {
+        "id": "suillus_grevillei",
+        "name": "Larch Bolete",
+        "eatable": "Edible",
+        "description": "Larch Bolete has a similar cap, but there is a very distinct ring zone on its stem and its pores are much larger and angular."
+      }
+    ],
+
+    "image_url": "images_dataset/suillus_granulatus.jpg",
+    "season": "May-November",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Larch Bolete",
+    "id": "suillus_grevillei",
+
+    "scientific_names": [
+      "Suillus grevillei", "Boletus"
+    ],
+    "common_names": [
+      "Larch Bolete", "Greville's Bolete"
+    ],
+    "habitat": "Under and around Larch trees.",
+    "distribution": "Very common in grassland under larch trees in Britain and Ireland, the Granulated Bolete is also found throughout most of mainland Europe. This bolete is also recorded in many parts of North America.",
+    "cap": "6-9cm. Bright yellow, darkening to burnt orange on older specimens. Starting convex but flattening in older mushrooms. The cap is viscid and looks shiny even when the weather is dry and is covered in slime. The variant badius has a chestnut brown cap.",
+    "tubes": "Sponge like, angular, bright yellow pores that darken with maturity and will bruise a rust colour.",
+    "stem": "8-11 cm long, 1.5-2 cm diameter. Yellow with brown scales underneath the veil like skirt and smooth above. Before the mushroom fully opens the pores are covered by a fine web like veil which joins the edge of the cap to the stem, when this comes away it forms the skirt.",
+    "flesh": "Yellow-orange and holding a lot of water.",
+    "AMH": "8-11",
+    "ACW": "6-9",
+    "smell": "This mushroom holds so much water that it really needs drying to get a flavour and texture from but as it holds so much water it dries to next to nothing, otherwise it can be added to soups and stews to bulk them out. Should be cooked before consumption.",
+    "spore_print": "Oche-sienna coloured",
+    "frequency": "Common",
+    "confusion_items": [
+      {
+        "id": "suillus_bovinus",
+        "name": "Bovine Bolete",
+        "eatable": "Edible",
+        "description": "Growing under Larches and being a Suillus, part of the Bolete family, it is difficult to mistake this mushroom for anything other than the Bovine Bolete, this does not have a skirt."
+      }
+    ],
+
+
+    "image_url": "images_dataset/suillus_grevillei.jpeg",
+    "season": "June-October",
+    "eatable": "Edible"
+  },
+
+  {
+    "name": "Slippery Jack",
+    "id": "suillus_luteus",
+    "scientific_names": [
+      "Suillus luteus"
+    ],
+    "common_names": [
+      "Slippery Jack", "Purple-veiled Slippery Jack"
+    ],
+    "habitat": "With Pine, especially in Pine plantations.",
+    "distribution": "Suillus luteus is common and widespread throughout Britain and Ireland, always in or beside pine plantations. This bolete copes well in cold northern climes, and is very common in Scandinavia; it occurs also throughout the rest of Europe, Asia and North America.",
+    "cap": "5-12 cm long, 2-3 cm diameter. Dark brown to purple/brown with a very glutinous cap when wet, more rusty brown when dry. Starting convex and broadly flattening with age.",
+    "tubes": "The pores are round, tightly packed and lemon yellow to dull yellow. When young they are covered by a veil which will break free from the cap forming the skirt.",
+    "stem": "5-9cm. Off white to yellow, more yellow above the skirt and covered in small brown granular spots.",
+    "flesh": "White, sometimes with a red/purple flush towards the base. Unchanging when exposed to air.",
+    "AMH": "5-9",
+    "ACW": "5-12",
+    "smell": "Not distinctive",
+    "spore_print": "Brown. Subfusiform",
+    "frequency": "Common with Pine",
+    "confusion_items": [
+      {
+        "id": "suillus_grevillei",
+        "name": "Larch Bolete",
+        "eatable": "Edible",
+        "description": "The Larch Bolete can look similar but is more orange/yellow. A Larch Bolete variant (Suillus grevillei var. badius) is darker capped but also has a darker stem not the off white stem of Slippery Jack."
+      }
+    ],
+    "image_url": "images_dataset/suillus_luteus.jpg",
+    "season": "May-November",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Yellow Knight",
+    "id": "tricholoma_equestre",
+    "scientific_names": [
+      "Tricholoma equestre"
+    ],
+    "common_names": [
+      "Man-on-horseback", "Yellow knight", "Saddle-shaped tricholoma"
+    ],
+    "habitat": "Mainly under pines, but also mycorrhizal with birches and occasionally oaks.",
+    "distribution": "Common in northern Scotland, under Scots Pine in sandy areas but also occasionally with birches and with oaks, this late season mushroom is rarely seen in southern Britain and in Ireland.",
+    "cap": "Bright yellow, with a fibrous or scaly olive-brown central area; convex, often with a wavy margin and a slight central umbo; 5 to 9cm across. The flesh is white or very pale yellow. ",
+    "tubes": "Pale to right yellow; adnexed (often with a notch).",
+    "stem": "Pale yellow; lined vertically with brown fibres; cylindrical; 5 to 10cm long, 0.8 to 1.5cm diameter; no ring.",
+    "flesh": "Pale yellow, and brownish at the base",
+    "AMH": "5-10",
+    "ACW": "5-9",
+    "smell": "No significant odour. Tasting not advisable",
+    "spore_print": "White",
+    "frequency": "Common",
+    "confusion_items": [
+      {
+        "id": "tricholoma_sulphureum",
+        "name": "Sulphur Knight",
+        "eatable": "Poisonous",
+        "description": "Sulphur Knight has a yellow cap without the brown-olive central area; it smells strongly of coal gas. "
+      }
+    ],
+    "image_url": "images_dataset/tricholoma_equestre.jpg",
+    "season": "September-November",
+    "eatable": "Edible"
+  },
+  {
+    "name": "Tricholoma terreum",
+    "id": "tricholoma_terreum",
+    "scientific_names": [
+      "Tricholoma terreum", "Tricholoma myomyces", "Tricholoma gausapatum"
+    ],
+    "common_names": [
+      "Grey Knight"
+    ],
+    "habitat": "Mainly with Scotch Pines but can grow with other coniferous trees.",
+    "distribution": "Tricholoma terreum seems to be found of the dryish edges of well-used paths through Scots Pine plantations, and so the Caledonian Forest in central Scotland is a particularly good place to go if you want to see plenty of these typical Tricholoma mushrooms. The Grey Knight occurs also throughout most of mainland Europe. Tricholoma terreum is found in Australia, where it is almost certainly an introduced species brought in with pine trees from Europe.",
+    "cap": "Grey/white with small ‘woolly’ fibres radiating from the centre of the cap. Starts conical but will flatten out retaining an umbo.",
+    "tubes": "White to pale grey, crowded and appear free from the stem but are narrowly joined and sinuate (notched near the stem).",
+    "stem": "Smooth and white.",
+    "flesh": "White and usually hollow in the stem.",
+    "AMH": "6",
+    "ACW": "6",
+    "smell": "Not distinctive",
+    "spore_print": "White. Ellipsoid",
+    "frequency": "Common and gregarious",
+    "confusion_items": [
+    ],
+    "image_url": "images_dataset/tricholoma_terreum.jpg",
+    "season": "August-October",
+    "eatable": "Poisonous"
+  },
+  {
+    "name": "Bitter Bolete",
+    "id": "tylopilus_felleus",
+    "scientific_names": [
+      "Boletus felleus", "Tylopilus Felleus"
+    ],
+    "common_names": [
+      "Bitter Bolete"
+    ],
+    "habitat": "Mixed woodland, more often with broadleaf trees but will grow with coniferous trees.",
+    "distribution": "An occasional species in Britain and Ireland, Tylopilus felleus is rather more common in northern European countries. ",
+    "cap": "7-10 cm. Pale to dark brown. Starting convex with a suede like covering but flattening out, losing any small hairs and sometimes splitting with age.",
+    "tubes": "Starts with white, sponge like pores that develop a pink tinge around the pore openings and will bruise pink when damaged eventually turning brown.",
+    "stem": "7-10 cm long, 2-3 cm diameter. Off white to tan with a darker net like pattern or reticulation, particularly towards the top of the stem. The base is usually wider than the top.",
+    "flesh": "White and unchanging sometimes with a pink flush.",
+    "AMH": "7-10",
+    "ACW": "7-10",
+    "smell": "Extremely bitter",
+    "spore_print": "Clay-pink to wine coloured",
+    "frequency": "Common",
+    "confusion_items": [
+      {
+        "id": "boletus_edulis",
+        "name": "Penny Bun",
+        "eatable": "Edible",
+        "description": "Can look very like a Penny Bun or Summer Bolete (Boletus reticulatus) but the reticulation on the stem is dark on a lighter background for the Bitter Bolete and light on a slightly darker background for the Penny Bun and Summer Bolete and the pores of the Penny Bun and Summer Bolete do not bruise to a pink colour like the Bitter Bolete."
+      }
+    ],
+    "image_url": "images_dataset/tylopilus_felleus.jpg",
+    "season": "June-October",
+    "eatable": "Inedible"
+  }
+]

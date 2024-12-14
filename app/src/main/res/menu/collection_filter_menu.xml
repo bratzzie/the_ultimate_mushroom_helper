@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/without_filters"
+        android:title="--" />
+    <item android:id="@+id/edible_filter"
+        android:title="Edible" />
+    <item android:id="@+id/inedible_filter"
+        android:title="Inedible" />
+    <item android:id="@+id/poisonous_filter"
+        android:title="Poisonous" />
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_page"
+        android:enabled="true"
+        android:icon="@drawable/round_home_24"
+        android:title="@string/home_navigation_tab"/>
+    <item
+        android:id="@+id/scan_page"
+        android:enabled="true"
+        android:icon="@drawable/baseline_center_focus_weak_24"
+        android:title="Scan"/>
+    <item
+        android:id="@+id/encyclopedia_page"
+        android:enabled="true"
+        android:icon="@drawable/baseline_book_24"
+        android:title="Encyclopedia"/>
+    <item
+        android:id="@+id/findings_page"
+        android:enabled="true"
+        android:icon="@drawable/round_location_on_24"
+        android:title="Fingings"/>
+</menu>

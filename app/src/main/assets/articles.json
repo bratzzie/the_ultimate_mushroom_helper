@@ -1,0 +1,158 @@
+[
+  {
+    "category": "new_knowledge",
+    "title": "The most poisonous mushrooms",
+    "description": "Some are extremely dangerous and must be avoided at all costs!",
+    "image_id": "amanita_phalloides",
+    "mushrooms_ids": [
+      "amanita_phalloides", "amanita_muscaria", "paxillus_involutus", "tricholoma_equestre"
+    ]
+  },
+  {
+    "category": "new_knowledge",
+    "title": "The most delicious fungi",
+    "description": "Let's look at the best and tastiest edible mushrooms.",
+    "image_id": "morchella_esculenta",
+    "mushrooms_ids": [
+      "lycoperdon_perlatum", "coprinus_comatus", "cantharellus_cibarius", "boletus_edulis", "morchella_esculenta"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in January",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "flammulina_velutipes",
+    "mushrooms_ids": [
+      "calocera_viscosa", "flammulina_velutipes"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in February",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "flammulina_velutipes",
+    "mushrooms_ids": [
+      "calocera_viscosa", "flammulina_velutipes"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in March",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "morchella_esculenta",
+    "mushrooms_ids": [
+      "calocera_viscosa", "flammulina_velutipes", "morchella_esculenta"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in April",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "morchella_esculenta",
+    "mushrooms_ids": [
+      "calocera_viscosa", "flammulina_velutipes", "morchella_esculenta", "coprinus_comatus"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in May",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "coprinus_comatus",
+    "mushrooms_ids": [
+      "agaricus_arvensis", "agaricus_campestris", "amanita_gemmata", "calocera_viscosa", "coprinus_comatus", "cantharellus_cibarius",
+      "cerioporus_squamosus", "morchella_esculenta"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in June",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "coprinus_comatus",
+    "mushrooms_ids": [
+      "agaricus_arvensis", "agaricus_campestris", "amanita_gemmata", "calocera_viscosa", "amanita_pantherina",
+      "amanita_phalloides", "agaricus_silvaticus", "boletus_reticulatus", "coprinus_comatus", "cantharellus_cibarius",
+      "cerioporus_squamosus"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in July",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "coprinus_comatus",
+    "mushrooms_ids": [
+      "agaricus_campestris", "amanita_gemmata", "amanita_pantherina",
+      "amanita_phalloides", "calocera_viscosa", "cantharellus_cibarius", "coprinus_comatus",
+      "lycoperdon_perlatum", "leccinum_scabrum", "leccinum_albostipitatum", "lactarius_deliciosus", "agaricus_arvensis",
+      "agaricus_silvaticus", "russula_cyanoxantha", "russula_vesca", "russula_virescens", "tricholoma_equestre",
+      "tylopilus_felleus", "boletus_reticulatus"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in August",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "agaricus_arvensis",
+    "mushrooms_ids": [
+      "agaricus_campestris", "amanita_gemmata", "amanita_muscaria", "amanita_pantherina",
+      "amanita_phalloides", "calocera_viscosa", "cantharellus_cibarius", "coprinus_comatus",
+      "suillus_granulatus", "suillus_grevillei", "paxillus_involutus", "lycoperdon_perlatum",
+      "leccinum_scabrum", "leccinum_albostipitatum", "lactarius_deliciosus", "agaricus_arvensis",
+      "agaricus_silvaticus", "boletus_edulis", "russula_claroflava", "russula_cyanoxantha",
+      "russula_vesca", "russula_virescens", "tricholoma_equestre", "tricholoma_terreum",
+      "tylopilus_felleus", "suillus_luteus", "boletus_reticulatus"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in September",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "agaricus_arvensis",
+    "mushrooms_ids": [
+      "agaricus_campestris", "amanita_gemmata", "amanita_muscaria", "amanita_pantherina",
+      "amanita_phalloides", "calocera_viscosa", "cantharellus_cibarius", "coprinus_comatus",
+      "suillus_granulatus", "suillus_grevillei", "paxillus_involutus", "lycoperdon_perlatum",
+      "leccinum_scabrum", "leccinum_albostipitatum", "lactarius_deliciosus", "agaricus_arvensis",
+      "agaricus_silvaticus", "boletus_edulis", "russula_claroflava", "russula_cyanoxantha",
+      "russula_vesca", "russula_virescens", "tricholoma_equestre", "tricholoma_terreum",
+      "tylopilus_felleus", "suillus_luteus"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in October",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "cantharellus_cibarius",
+    "mushrooms_ids": [
+      "agaricus_campestris", "amanita_gemmata", "amanita_muscaria", "amanita_pantherina",
+      "amanita_phalloides", "calocera_viscosa", "cantharellus_cibarius", "coprinus_comatus",
+      "suillus_granulatus", "suillus_grevillei", "paxillus_involutus", "lycoperdon_perlatum",
+      "leccinum_scabrum", "leccinum_albostipitatum", "lactarius_deliciosus", "agaricus_arvensis",
+      "agaricus_silvaticus", "boletus_edulis", "russula_claroflava", "russula_cyanoxantha",
+      "russula_vesca", "russula_virescens", "tricholoma_equestre", "tricholoma_terreum",
+      "tylopilus_felleus"
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in November",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "cantharellus_cibarius",
+    "mushrooms_ids": [
+     "agaricus_campestris", "amanita_gemmata", "amanita_muscaria", "amanita_pantherina",
+      "amanita_phalloides", "calocera_viscosa", "cantharellus_cibarius", "coprinus_comatus",
+      "suillus_granulatus", "suillus_grevillei", "paxillus_involutus", "lycoperdon_perlatum",
+      "leccinum_scabrum", "leccinum_albostipitatum", "lactarius_deliciosus"
+
+    ]
+  },
+  {
+    "category": "current_month",
+    "title": "Foraging in December",
+    "description": "Worldwide! Double check your local sources and get ready.",
+    "image_id": "flammulina_velutipes",
+    "mushrooms_ids": [
+      "calocera_viscosa", "flammulina_velutipes", "amanita_muscaria"
+    ]
+  }
+]
+
