@@ -5,7 +5,7 @@
 
 My **bachelor degree project**, which is centered around the development of a mobile android application for *automatic mushroom identification using machine learning*.
 The **purpose** of this project is to empower users to safely and accurately identify mushrooms they encounter in their natural environment.
-image
+
 ![alt text](App.png "App")
 
 ## Research tasks
